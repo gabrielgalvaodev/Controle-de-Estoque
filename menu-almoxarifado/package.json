@@ -1,0 +1,11 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Estou ficando fera nisso",
+  "main": "exemplo.js",
+  "author": "Gabriel Galvao",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
